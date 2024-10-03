@@ -6,7 +6,7 @@
 console.log('----------');
 // Hoisting Function Expression const
 // greet(); // Error: Cannot access 'greet' before initialization
-var greet2 = function () {
+var gre = function () {
     console.log("Hello from a function expression with const!");
 };
-greet2(); // Output: "Hello from a function expression with const!"
+gre(); // Output: "Hello from a function expression with const!"

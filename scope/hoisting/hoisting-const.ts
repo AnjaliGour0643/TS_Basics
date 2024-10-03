@@ -14,8 +14,8 @@ console.log('----------')
 
 // greet(); // Error: Cannot access 'greet' before initialization
 
-const greet2 = function() {  //const greet2 = function() : void {} -> it is giving error
+const gre = function() {  //const greet2 = function() : void {} -> it is giving error
     console.log("Hello from a function expression with const!");
 };
 
-greet2(); // Output: "Hello from a function expression with const!"
+gre(); // Output: "Hello from a function expression with const!"
