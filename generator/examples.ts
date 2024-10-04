@@ -1,4 +1,6 @@
 /**
+ * npm install --save-dev @types/node
+ * 
  * A generator in TypeScript is similar to JavaScript, where it is a special type of function that can pause and resume its execution.
  * Syntax:       A generator function is declared using function* (an asterisk after function).
  * Yield:        Inside a generator, the yield keyword is used to pause the function and return a value.
